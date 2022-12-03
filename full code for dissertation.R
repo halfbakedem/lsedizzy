@@ -1,4 +1,4 @@
-setwd("~/Desktop/dizzy/Submission file")
+setwd("~/Desktop/lsedizzy")
 
 
 
@@ -22,7 +22,7 @@ library(tsDyn)
 
 #load dataset
 hdb<- read_xlsx("HDB yearly.xlsx")
-hdb2<- read_xlsx("hdb yearly standardised.xlsx")
+hdb2<- read_xlsx("hdb data (standardised).xlsx")
 
 #declare time series objects
 
